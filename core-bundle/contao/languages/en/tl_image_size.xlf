@@ -99,7 +99,7 @@
         <source>Decoding</source>
       </trans-unit>
       <trans-unit id="tl_image_size.decoding.1">
-        <source>Hint to the browser about how the image should be decoded.</source>
+        <source>Hint to the browser about how the image should be decoded. Defaults to asynchronous decoding.</source>
       </trans-unit>
       <trans-unit id="tl_image_size.tstamp.0">
         <source>Revision date</source>
